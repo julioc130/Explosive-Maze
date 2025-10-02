@@ -1,8 +1,17 @@
+using System.Reflection.Emit;
 using UnityEngine;
 
 public class perf : StateMachineBehaviour
 {
-    // OnStateEnter is called when a transition starts and the state machine starts to evaluate this state
+    ConstructorBuilder()
+    {
+        int a = 0;
+        for (int i = 0; i < 1000000; i++)
+        {
+            a += i;
+        }
+        Debug.Log(a);
+    }    // OnStateEnter is called when a transition starts and the state machine starts to evaluate this state
     //override public void OnStateEnter(Animator animator, AnimatorStateInfo stateInfo, int layerIndex)
     //{
     //    
