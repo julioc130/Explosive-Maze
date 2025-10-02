@@ -1,0 +1,494 @@
+fileFormatVersion: 2
+guid: cd64456e06b414a83b304c420a0e78df
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3916078233704517324
+    second: mapa 01BombermanQuest-tileset_0
+  - first:
+      213: -8144311802662363906
+    second: mapa 01BombermanQuest-tileset_1
+  - first:
+      213: 277476543373907399
+    second: mapa 01BombermanQuest-tileset_2
+  - first:
+      213: -1501916870322941009
+    second: mapa 01BombermanQuest-tileset_3
+  - first:
+      213: 4320774248977092919
+    second: mapa 01BombermanQuest-tileset_4
+  - first:
+      213: -1023230333824931733
+    second: mapa 01BombermanQuest-tileset_5
+  - first:
+      213: 1178077099119159388
+    second: mapa 01BombermanQuest-tileset_6
+  - first:
+      213: -5577302036412086772
+    second: mapa 01BombermanQuest-tileset_7
+  - first:
+      213: 802863252232160029
+    second: mapa 01BombermanQuest-tileset_8
+  - first:
+      213: -3343351270932137125
+    second: mapa 01BombermanQuest-tileset_9
+  - first:
+      213: 5910159557675486782
+    second: mapa 01BombermanQuest-tileset_10
+  - first:
+      213: -3882184685586932870
+    second: mapa 01BombermanQuest-tileset_11
+  - first:
+      213: 1724857390334574911
+    second: mapa 01BombermanQuest-tileset_12
+  - first:
+      213: -1037253628599211289
+    second: mapa 01BombermanQuest-tileset_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mapa 01BombermanQuest-tileset_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 479
+        width: 97
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 431376f389b47a9c0800000000000000
+      internalID: -3916078233704517324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa 01BombermanQuest-tileset_1
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 479
+        width: 98
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efcd94ed09799fe80800000000000000
+      internalID: -8144311802662363906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa 01BombermanQuest-tileset_2
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 495
+        width: 98
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c51e41327bc9d300800000000000000
+      internalID: 277476543373907399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa 01BombermanQuest-tileset_3
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 575
+        width: 97
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa31c3e509e182be0800000000000000
+      internalID: -1501916870322941009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa 01BombermanQuest-tileset_4
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 495
+        width: 97
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7315fe8794976fb30800000000000000
+      internalID: 4320774248977092919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa 01BombermanQuest-tileset_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 31
+        width: 97
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b68e5f4ce61ccc1f0800000000000000
+      internalID: -1023230333824931733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa 01BombermanQuest-tileset_6
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 111
+        width: 98
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c58250341ee595010800000000000000
+      internalID: 1178077099119159388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa 01BombermanQuest-tileset_7
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 287
+        width: 98
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c06489209517992b0800000000000000
+      internalID: -5577302036412086772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa 01BombermanQuest-tileset_8
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 271
+        width: 97
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d134388cfd7542b00800000000000000
+      internalID: 802863252232160029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa 01BombermanQuest-tileset_9
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 0
+        width: 114
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5b3db0abb70a91d0800000000000000
+      internalID: -3343351270932137125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa 01BombermanQuest-tileset_10
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 63
+        width: 98
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3e8029edca150250800000000000000
+      internalID: 5910159557675486782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa 01BombermanQuest-tileset_11
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 63
+        width: 97
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7b112fd895bf1ac0800000000000000
+      internalID: -3882184685586932870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa 01BombermanQuest-tileset_12
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 15
+        width: 98
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f31891768acefe710800000000000000
+      internalID: 1724857390334574911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa 01BombermanQuest-tileset_13
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 0
+        width: 97
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eaeb55025fea91f0800000000000000
+      internalID: -1037253628599211289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      mapa 01BombermanQuest-tileset_0: -3916078233704517324
+      mapa 01BombermanQuest-tileset_1: -8144311802662363906
+      mapa 01BombermanQuest-tileset_10: 5910159557675486782
+      mapa 01BombermanQuest-tileset_11: -3882184685586932870
+      mapa 01BombermanQuest-tileset_12: 1724857390334574911
+      mapa 01BombermanQuest-tileset_13: -1037253628599211289
+      mapa 01BombermanQuest-tileset_2: 277476543373907399
+      mapa 01BombermanQuest-tileset_3: -1501916870322941009
+      mapa 01BombermanQuest-tileset_4: 4320774248977092919
+      mapa 01BombermanQuest-tileset_5: -1023230333824931733
+      mapa 01BombermanQuest-tileset_6: 1178077099119159388
+      mapa 01BombermanQuest-tileset_7: -5577302036412086772
+      mapa 01BombermanQuest-tileset_8: 802863252232160029
+      mapa 01BombermanQuest-tileset_9: -3343351270932137125
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
